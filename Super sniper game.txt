@@ -1,0 +1,5 @@
+// ISO Game: Future Wars
+public class FutureWars {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Future Wars!");
+        // Add your Future Wars game script here
